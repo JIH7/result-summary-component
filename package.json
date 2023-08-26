@@ -1,0 +1,11 @@
+{
+  "name": "results-summary-component",
+  "version": "1.0.0",
+  "description": "This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).",
+  "main": "index.html",
+  "scripts": {
+    "watch": "sass --watch style.scss:style.css"
+  },
+  "author": "Jeremy Helsel",
+  "license": "ISC"
+}
